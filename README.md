@@ -1,4 +1,4 @@
-# Computer_Vision_HW1
+# Computer Vision HW1
 
 This is my First Homework in Computer Vision Course. This Homeworks consists of four questions as follows:
 
