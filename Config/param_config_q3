@@ -1,0 +1,4 @@
+[int_params]
+MAX_ITERATIONS = 10000
+[float_params]
+R = 0.7

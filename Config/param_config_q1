@@ -1,0 +1,8 @@
+[int_params]
+SIGMA = 2
+N = 51
+NMS_RADIUS = 10
+[float_params]
+K = 0.1
+THRESHOLD1 = 1e6
+THRESHOLD2 = 1.25
