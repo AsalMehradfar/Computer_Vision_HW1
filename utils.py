@@ -133,7 +133,7 @@ def normalize_img(img):
     --> img: the desired image for scaling
     Outputs:
     ==> norm_img: we assume that the minimum of the image is zero
-        so we normalize it by devision by its maximum
+        so we normalize it by division by its maximum
     """
     norm_img = img / np.max(img)
     return norm_img
